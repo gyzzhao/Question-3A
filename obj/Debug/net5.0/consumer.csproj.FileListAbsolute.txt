@@ -1,0 +1,60 @@
+C:\Work\CloudEnabled\Assessment\Intermediate\Test\Question 3A\consumer\bin\Debug\net5.0\appsettings.Development.json
+C:\Work\CloudEnabled\Assessment\Intermediate\Test\Question 3A\consumer\bin\Debug\net5.0\appsettings.json
+C:\Work\CloudEnabled\Assessment\Intermediate\Test\Question 3A\consumer\bin\Debug\net5.0\consumer.exe
+C:\Work\CloudEnabled\Assessment\Intermediate\Test\Question 3A\consumer\bin\Debug\net5.0\consumer.deps.json
+C:\Work\CloudEnabled\Assessment\Intermediate\Test\Question 3A\consumer\bin\Debug\net5.0\consumer.runtimeconfig.json
+C:\Work\CloudEnabled\Assessment\Intermediate\Test\Question 3A\consumer\bin\Debug\net5.0\consumer.runtimeconfig.dev.json
+C:\Work\CloudEnabled\Assessment\Intermediate\Test\Question 3A\consumer\bin\Debug\net5.0\consumer.dll
+C:\Work\CloudEnabled\Assessment\Intermediate\Test\Question 3A\consumer\bin\Debug\net5.0\ref\consumer.dll
+C:\Work\CloudEnabled\Assessment\Intermediate\Test\Question 3A\consumer\bin\Debug\net5.0\consumer.pdb
+C:\Work\CloudEnabled\Assessment\Intermediate\Test\Question 3A\consumer\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Work\CloudEnabled\Assessment\Intermediate\Test\Question 3A\consumer\bin\Debug\net5.0\RabbitMQ.Client.dll
+C:\Work\CloudEnabled\Assessment\Intermediate\Test\Question 3A\consumer\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Work\CloudEnabled\Assessment\Intermediate\Test\Question 3A\consumer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Work\CloudEnabled\Assessment\Intermediate\Test\Question 3A\consumer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Work\CloudEnabled\Assessment\Intermediate\Test\Question 3A\consumer\obj\Debug\net5.0\consumer.csproj.AssemblyReference.cache
+C:\Work\CloudEnabled\Assessment\Intermediate\Test\Question 3A\consumer\obj\Debug\net5.0\consumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\CloudEnabled\Assessment\Intermediate\Test\Question 3A\consumer\obj\Debug\net5.0\consumer.AssemblyInfoInputs.cache
+C:\Work\CloudEnabled\Assessment\Intermediate\Test\Question 3A\consumer\obj\Debug\net5.0\consumer.AssemblyInfo.cs
+C:\Work\CloudEnabled\Assessment\Intermediate\Test\Question 3A\consumer\obj\Debug\net5.0\consumer.csproj.CoreCompileInputs.cache
+C:\Work\CloudEnabled\Assessment\Intermediate\Test\Question 3A\consumer\obj\Debug\net5.0\consumer.MvcApplicationPartsAssemblyInfo.cs
+C:\Work\CloudEnabled\Assessment\Intermediate\Test\Question 3A\consumer\obj\Debug\net5.0\consumer.MvcApplicationPartsAssemblyInfo.cache
+C:\Work\CloudEnabled\Assessment\Intermediate\Test\Question 3A\consumer\obj\Debug\net5.0\staticwebassets\consumer.StaticWebAssets.Manifest.cache
+C:\Work\CloudEnabled\Assessment\Intermediate\Test\Question 3A\consumer\obj\Debug\net5.0\staticwebassets\consumer.StaticWebAssets.xml
+C:\Work\CloudEnabled\Assessment\Intermediate\Test\Question 3A\consumer\obj\Debug\net5.0\scopedcss\bundle\consumer.styles.css
+C:\Work\CloudEnabled\Assessment\Intermediate\Test\Question 3A\consumer\obj\Debug\net5.0\consumer.RazorTargetAssemblyInfo.cache
+C:\Work\CloudEnabled\Assessment\Intermediate\Test\Question 3A\consumer\obj\Debug\net5.0\consumer.csproj.CopyComplete
+C:\Work\CloudEnabled\Assessment\Intermediate\Test\Question 3A\consumer\obj\Debug\net5.0\consumer.dll
+C:\Work\CloudEnabled\Assessment\Intermediate\Test\Question 3A\consumer\obj\Debug\net5.0\ref\consumer.dll
+C:\Work\CloudEnabled\Assessment\Intermediate\Test\Question 3A\consumer\obj\Debug\net5.0\consumer.pdb
+C:\Work\CloudEnabled\Assessment\Intermediate\Test\Question 3A\consumer\obj\Debug\net5.0\consumer.genruntimeconfig.cache
+C:\MS_Training\Intermediate\Study\Question-3\consumer\bin\Debug\net5.0\appsettings.Development.json
+C:\MS_Training\Intermediate\Study\Question-3\consumer\bin\Debug\net5.0\appsettings.json
+C:\MS_Training\Intermediate\Study\Question-3\consumer\bin\Debug\net5.0\consumer.StaticWebAssets.xml
+C:\MS_Training\Intermediate\Study\Question-3\consumer\bin\Debug\net5.0\consumer.exe
+C:\MS_Training\Intermediate\Study\Question-3\consumer\bin\Debug\net5.0\consumer.deps.json
+C:\MS_Training\Intermediate\Study\Question-3\consumer\bin\Debug\net5.0\consumer.runtimeconfig.json
+C:\MS_Training\Intermediate\Study\Question-3\consumer\bin\Debug\net5.0\consumer.runtimeconfig.dev.json
+C:\MS_Training\Intermediate\Study\Question-3\consumer\bin\Debug\net5.0\consumer.dll
+C:\MS_Training\Intermediate\Study\Question-3\consumer\bin\Debug\net5.0\ref\consumer.dll
+C:\MS_Training\Intermediate\Study\Question-3\consumer\bin\Debug\net5.0\consumer.pdb
+C:\MS_Training\Intermediate\Study\Question-3\consumer\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\MS_Training\Intermediate\Study\Question-3\consumer\bin\Debug\net5.0\RabbitMQ.Client.dll
+C:\MS_Training\Intermediate\Study\Question-3\consumer\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\MS_Training\Intermediate\Study\Question-3\consumer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\MS_Training\Intermediate\Study\Question-3\consumer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\MS_Training\Intermediate\Study\Question-3\consumer\obj\Debug\net5.0\consumer.csproj.AssemblyReference.cache
+C:\MS_Training\Intermediate\Study\Question-3\consumer\obj\Debug\net5.0\consumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\MS_Training\Intermediate\Study\Question-3\consumer\obj\Debug\net5.0\consumer.AssemblyInfoInputs.cache
+C:\MS_Training\Intermediate\Study\Question-3\consumer\obj\Debug\net5.0\consumer.AssemblyInfo.cs
+C:\MS_Training\Intermediate\Study\Question-3\consumer\obj\Debug\net5.0\consumer.csproj.CoreCompileInputs.cache
+C:\MS_Training\Intermediate\Study\Question-3\consumer\obj\Debug\net5.0\consumer.MvcApplicationPartsAssemblyInfo.cs
+C:\MS_Training\Intermediate\Study\Question-3\consumer\obj\Debug\net5.0\consumer.MvcApplicationPartsAssemblyInfo.cache
+C:\MS_Training\Intermediate\Study\Question-3\consumer\obj\Debug\net5.0\scopedcss\bundle\consumer.styles.css
+C:\MS_Training\Intermediate\Study\Question-3\consumer\obj\Debug\net5.0\staticwebassets\consumer.StaticWebAssets.Manifest.cache
+C:\MS_Training\Intermediate\Study\Question-3\consumer\obj\Debug\net5.0\consumer.RazorTargetAssemblyInfo.cache
+C:\MS_Training\Intermediate\Study\Question-3\consumer\obj\Debug\net5.0\consumer.csproj.CopyComplete
+C:\MS_Training\Intermediate\Study\Question-3\consumer\obj\Debug\net5.0\consumer.dll
+C:\MS_Training\Intermediate\Study\Question-3\consumer\obj\Debug\net5.0\ref\consumer.dll
+C:\MS_Training\Intermediate\Study\Question-3\consumer\obj\Debug\net5.0\consumer.pdb
+C:\MS_Training\Intermediate\Study\Question-3\consumer\obj\Debug\net5.0\consumer.genruntimeconfig.cache
